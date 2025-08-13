@@ -1,2 +1,2 @@
-# color-replacement-streamlit-
+# color-replacement-streamlit
 Color Replacement in Image 
